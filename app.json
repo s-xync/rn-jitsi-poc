@@ -1,0 +1,12 @@
+{
+  "name": "rnjitsipoc",
+  "displayName": "rnjitsipoc",
+  "expo": {
+    "name": "rnjitsipoc",
+    "slug": "rnjitsipoc",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
